@@ -2,7 +2,7 @@ Privacy Policy
 
 This Privacy Policy explains how your personal data is managed on this website, in compliance with the GDPR (General Data Protection Regulation).
 
-Data Controller: Davide Caronna – Contact: davide.caronna@outlook.it.
+Data Controller: Davide Caronna            Contact: davide.caronna@outlook.it.
 
 Email Communication: If you choose to contact me via email, I will only use your email address and any information provided to respond to your inquiry. Your data will not be used for marketing purposes, newsletters, or shared with third parties.
 
@@ -11,3 +11,4 @@ CV Download: Downloading my curriculum vitae does not involve any collection of 
 No Tracking: This website does not use profiling cookies, tracking scripts (such as Google Analytics), or marketing tools.
 
 Hosting: This site is hosted on GitHub Pages. GitHub may collect system logs (such as visitor IP addresses) to ensure the security and proper functioning of the service. For more details, please refer to the GitHub Privacy Statement (https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement?hl=it-IT).
+
